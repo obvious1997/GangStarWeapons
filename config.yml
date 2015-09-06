@@ -1,0 +1,29 @@
+weapons:
+    ak47:
+        cooldowntir: 10
+        cooldownreload: 5
+        chargeur: 30
+        munition: 2
+        damage: 3
+        velocity: 1
+    m4:
+        cooldowntir: 10
+        cooldownreload: 5
+        chargeur: 30
+        munition: 2
+        damage: 3
+        velocity: 1
+    deagle:
+        cooldowntir: 10
+        cooldownreload: 5
+        chargeur: 30
+        munition: 2
+        damage: 3
+        velocity: 1.5
+    sniper:
+        cooldowntir: 10
+        cooldownreload: 5
+        chargeur: 30
+        munition: 2
+        damage: 3
+        velocity: 2        
